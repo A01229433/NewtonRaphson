@@ -10,6 +10,6 @@ Si se extiende una tangente desde el punto (xi,f(xi)) , el punto donde esta tang
 
 ![uno](http://test.cua.uam.mx/MN/Methods/Raices/NewtonRaphson/Images/image10.gif)
 
-La fórmula de Newton-Raphson se deduce a partir de la fórmula de la pendiente de una recta, dando el siguiente algoritmo:
+La fórmula de Newton-Raphson se deduce a partir de la fórmula de la pendiente de una recta, de donde obtenemos:
 
 ![dos](http://www3.fi.mdp.edu.ar/analisis/temas/no_lineales_1/images/fo_newton4.gif)
